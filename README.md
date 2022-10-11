@@ -1,7 +1,7 @@
 
 # ssproject
 
-Technical test
+Technical test for SS
 
 
 ## Run Locally
